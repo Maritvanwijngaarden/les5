@@ -1,0 +1,29 @@
+body{
+    background:black;
+}
+
+#main{
+    width: 1550px;
+    height:1000px;
+}
+#yellow{
+    background-color:yellow;
+    width: 490px;
+    height:1000px;
+    margin:10px;
+    float: left;
+}
+#white{
+    background-color:white;
+    width: 490px;
+    height:1000px;
+    margin:10px;
+    float: left;
+}
+#red{
+    background-color:red;
+    width: 490px;
+    height:1000px;
+    margin:10px;
+    float: left;
+}
